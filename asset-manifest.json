@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/monitor/static/css/main.3b076bb6.css",
-    "main.js": "/monitor/static/js/main.d956fd47.js",
+    "main.js": "/monitor/static/js/main.61f0fc17.js",
     "static/js/787.04545c0e.chunk.js": "/monitor/static/js/787.04545c0e.chunk.js",
     "static/media/Banner_mobile.webp": "/monitor/static/media/Banner_mobile.a40bf9f6b57cde66a50f.webp",
     "static/media/graph bg.png": "/monitor/static/media/graph bg.006fc6df38b548c0e980.png",
@@ -360,14 +360,12 @@
     "static/media/ygg_drasil.webp": "/monitor/static/media/ygg_drasil.0a1a9388e372f91a4717.webp",
     "static/media/ka_gaming.webp": "/monitor/static/media/ka_gaming.c047e9d64ceb328b3bfb.webp",
     "static/media/ylg.webp": "/monitor/static/media/ylg.7f1b4abfeb4bcbfe072d.webp",
-    "static/media/filter down.webp": "/monitor/static/media/filter down.da389eb0b4ebf6f19918.webp",
     "static/media/hc.webp": "/monitor/static/media/hc.26ea4832a533adee7e88.webp",
     "static/media/Green arrow.webp": "/monitor/static/media/Green arrow.c14537000556610085af.webp",
     "static/media/Red arrow.webp": "/monitor/static/media/Red arrow.6faf401c344b1fc7d084.webp",
     "static/media/askmeslot.webp": "/monitor/static/media/askmeslot.60ae3b4a2b2a1c94335f.webp",
     "static/media/yes_bingo.webp": "/monitor/static/media/yes_bingo.c2001ec76b94cecb9eec.webp",
     "static/media/mega.webp": "/monitor/static/media/mega.7be5bbd5cfd03fdf1ef9.webp",
-    "static/media/filter up.webp": "/monitor/static/media/filter up.13368b40c7d5e8c495b7.webp",
     "static/media/cq9.webp": "/monitor/static/media/cq9.6cf3316521ca2b63af38.webp",
     "static/media/Red end.webp": "/monitor/static/media/Red end.c651c3e3f116606b135d.webp",
     "static/media/Green end.webp": "/monitor/static/media/Green end.e6f1129dbd2f955e4223.webp",
@@ -378,10 +376,12 @@
     "static/media/netent.webp": "/monitor/static/media/netent.793adaad8a0e8c7e0de5.webp",
     "static/media/acewin.webp": "/monitor/static/media/acewin.d92af715637440cc71a5.webp",
     "static/media/no_limit_city.webp": "/monitor/static/media/no_limit_city.3d392704cffa6ad61f01.webp",
+    "static/media/filter down.webp": "/monitor/static/media/filter down.e0d5cd86de714c383b55.webp",
     "static/media/simple_play.webp": "/monitor/static/media/simple_play.51fdf5a90bb4247d10b1.webp",
     "static/media/virtual_tech.webp": "/monitor/static/media/virtual_tech.51fdf5a90bb4247d10b1.webp",
     "static/media/pocket_games.webp": "/monitor/static/media/pocket_games.36ca26b3d5640c94f8c2.webp",
     "static/media/wazdan.webp": "/monitor/static/media/wazdan.7deb5e427371224ef317.webp",
+    "static/media/filter up.webp": "/monitor/static/media/filter up.85e62a2f0f8a800f1263.webp",
     "static/media/jili.webp": "/monitor/static/media/jili.4fbd99e946608b56d47f.webp",
     "index.html": "/monitor/index.html",
     "static/media/bom.webp": "/monitor/static/media/bom.c31fedc7e45879d72413.webp",
@@ -390,11 +390,11 @@
     "static/media/png.webp": "/monitor/static/media/png.85043cb13e3caf1bb575.webp",
     "static/media/mega_win.webp": "/monitor/static/media/mega_win.bb7cd428ed38d40412a1.webp",
     "main.3b076bb6.css.map": "/monitor/static/css/main.3b076bb6.css.map",
-    "main.d956fd47.js.map": "/monitor/static/js/main.d956fd47.js.map",
+    "main.61f0fc17.js.map": "/monitor/static/js/main.61f0fc17.js.map",
     "787.04545c0e.chunk.js.map": "/monitor/static/js/787.04545c0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b076bb6.css",
-    "static/js/main.d956fd47.js"
+    "static/js/main.61f0fc17.js"
   ]
 }
